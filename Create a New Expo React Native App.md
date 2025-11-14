@@ -18,6 +18,8 @@ Terminal / CMD / PowerShell me run karein:
     NOTE:
     | Iske baad terminal me QR Code aayega → usko aap Expo Go se scan karke mobile me app chala sakte ho.
 
+    ![WhatsApp Image 2025-11-14 at 22 55 28_27dca8b5](https://github.com/user-attachments/assets/7246f3af-848a-4638-a25e-88a5e1d8af78)
+
 ADDITIONAL
 ⚙️ Important: Install Required Libraries
 Aap ek scalable e-commerce app bana rahe ho, isliye essential libraries abhi install karna best hai.
