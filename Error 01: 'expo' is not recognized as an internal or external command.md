@@ -63,3 +63,8 @@ Run karein:
     npx expo install react-native-screens react-native-safe-area-context
 
 Done. No more errors.
+
+------------------------------------------------
+Return to back:
+
+    https://github.com/sk4443060/fresh-react-native-setup-guide/blob/main/02.%20Create%20a%20New%20Expo%20React%20Native%20App.md
